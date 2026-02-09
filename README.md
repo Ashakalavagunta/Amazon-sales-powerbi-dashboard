@@ -108,7 +108,7 @@ Although this is a portfolio project, the analysis demonstrates how insights der
 ![Dashboard Overview](https://github.com/Ashakalavagunta/Amazon-sales-powerbi-dashboard/blob/16b0dc436768de58f00bd468a830a29dca361bbf/assets/dashboard_overview.png)
 
 ### KPI Summary
-![KPI Summary]([screenshots/kpi_summary.png](https://github.com/Ashakalavagunta/Amazon-sales-powerbi-dashboard/blob/9dd3db8044ea445e4a624075d06d6f25304c6705/assets/kpi_summary.png))
+![KPI Summary](https://github.com/Ashakalavagunta/Amazon-sales-powerbi-dashboard/blob/d1f172b2345c794a4c70621289394719525ce0d1/assets/kpi_summary.png)
 
 ### Sales Trends & Top Products
 ![Sales Trends & Products]([screenshots/sales_trends_products.png](https://github.com/Ashakalavagunta/Amazon-sales-powerbi-dashboard/blob/b8ec250ef8a3acf3cb7a93a20277f11584dc8311/assets/sales_trends_products.png))
