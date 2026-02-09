@@ -105,7 +105,7 @@ Although this is a portfolio project, the analysis demonstrates how insights der
 ## Dashboard Preview
 
 ### Executive Overview
-![Dashboard Overview](screenshots/dashboard_overview.png)
+![Dashboard Overview](https://github.com/Ashakalavagunta/Amazon-sales-powerbi-dashboard/blob/16b0dc436768de58f00bd468a830a29dca361bbf/assets/dashboard_overview.png)
 
 ### KPI Summary
 ![KPI Summary](screenshots/kpi_summary.png)
